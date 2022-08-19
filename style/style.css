@@ -1,0 +1,38 @@
+.title {
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://images.creativemarket.com/0.1.0/ps/4870716/1820/1213/m1/fpnw/wm1/pnt9fj0qxqzxctdh2l1wont2j2b43hfucapbpbx1e00ox74qhehmkmxexoevrdrg-.jpg?1533656412&s=20aa477cfa39f8d53ccb35bc8432a0ca");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bdycont {
+    background-color: wheat;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.linkList {
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid black;
+}
+
